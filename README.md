@@ -1,2 +1,3 @@
 # teller-client
-The client code of the teller app.
+The client code for the teller app.
+
